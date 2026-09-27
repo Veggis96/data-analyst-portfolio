@@ -1,0 +1,121 @@
+customer_id,customer_name,segment,region
+C0001,Customer 001,Small Business,North
+C0002,Customer 002,Consumer,East
+C0003,Customer 003,Consumer,South
+C0004,Customer 004,Consumer,North
+C0005,Customer 005,Small Business,North
+C0006,Customer 006,Small Business,West
+C0007,Customer 007,Consumer,North
+C0008,Customer 008,Consumer,South
+C0009,Customer 009,Consumer,North
+C0010,Customer 010,Small Business,South
+C0011,Customer 011,Small Business,West
+C0012,Customer 012,Consumer,West
+C0013,Customer 013,Small Business,East
+C0014,Customer 014,Consumer,South
+C0015,Customer 015,Small Business,West
+C0016,Customer 016,Corporate,East
+C0017,Customer 017,Consumer,South
+C0018,Customer 018,Corporate,North
+C0019,Customer 019,Consumer,West
+C0020,Customer 020,Consumer,East
+C0021,Customer 021,Corporate,East
+C0022,Customer 022,Consumer,West
+C0023,Customer 023,Small Business,North
+C0024,Customer 024,Corporate,North
+C0025,Customer 025,Small Business,East
+C0026,Customer 026,Small Business,East
+C0027,Customer 027,Small Business,South
+C0028,Customer 028,Small Business,North
+C0029,Customer 029,Consumer,South
+C0030,Customer 030,Corporate,North
+C0031,Customer 031,Consumer,North
+C0032,Customer 032,Corporate,East
+C0033,Customer 033,Corporate,East
+C0034,Customer 034,Consumer,East
+C0035,Customer 035,Corporate,South
+C0036,Customer 036,Small Business,East
+C0037,Customer 037,Small Business,North
+C0038,Customer 038,Small Business,South
+C0039,Customer 039,Small Business,South
+C0040,Customer 040,Consumer,West
+C0041,Customer 041,Corporate,East
+C0042,Customer 042,Small Business,South
+C0043,Customer 043,Small Business,East
+C0044,Customer 044,Consumer,South
+C0045,Customer 045,Consumer,East
+C0046,Customer 046,Corporate,East
+C0047,Customer 047,Consumer,South
+C0048,Customer 048,Small Business,East
+C0049,Customer 049,Consumer,West
+C0050,Customer 050,Corporate,West
+C0051,Customer 051,Consumer,East
+C0052,Customer 052,Consumer,South
+C0053,Customer 053,Small Business,East
+C0054,Customer 054,Small Business,West
+C0055,Customer 055,Small Business,West
+C0056,Customer 056,Corporate,South
+C0057,Customer 057,Consumer,West
+C0058,Customer 058,Consumer,North
+C0059,Customer 059,Consumer,South
+C0060,Customer 060,Small Business,South
+C0061,Customer 061,Small Business,West
+C0062,Customer 062,Small Business,North
+C0063,Customer 063,Corporate,West
+C0064,Customer 064,Small Business,West
+C0065,Customer 065,Small Business,East
+C0066,Customer 066,Small Business,North
+C0067,Customer 067,Small Business,North
+C0068,Customer 068,Small Business,East
+C0069,Customer 069,Small Business,East
+C0070,Customer 070,Consumer,East
+C0071,Customer 071,Corporate,South
+C0072,Customer 072,Corporate,North
+C0073,Customer 073,Small Business,East
+C0074,Customer 074,Small Business,South
+C0075,Customer 075,Small Business,North
+C0076,Customer 076,Small Business,East
+C0077,Customer 077,Small Business,South
+C0078,Customer 078,Consumer,East
+C0079,Customer 079,Consumer,North
+C0080,Customer 080,Small Business,East
+C0081,Customer 081,Corporate,North
+C0082,Customer 082,Consumer,East
+C0083,Customer 083,Corporate,South
+C0084,Customer 084,Consumer,South
+C0085,Customer 085,Small Business,North
+C0086,Customer 086,Consumer,West
+C0087,Customer 087,Consumer,South
+C0088,Customer 088,Consumer,West
+C0089,Customer 089,Small Business,South
+C0090,Customer 090,Corporate,West
+C0091,Customer 091,Consumer,South
+C0092,Customer 092,Small Business,East
+C0093,Customer 093,Corporate,East
+C0094,Customer 094,Corporate,West
+C0095,Customer 095,Consumer,South
+C0096,Customer 096,Consumer,North
+C0097,Customer 097,Corporate,North
+C0098,Customer 098,Small Business,South
+C0099,Customer 099,Small Business,South
+C0100,Customer 100,Consumer,North
+C0101,Customer 101,Small Business,North
+C0102,Customer 102,Consumer,North
+C0103,Customer 103,Consumer,East
+C0104,Customer 104,Consumer,South
+C0105,Customer 105,Corporate,West
+C0106,Customer 106,Consumer,South
+C0107,Customer 107,Small Business,West
+C0108,Customer 108,Consumer,West
+C0109,Customer 109,Corporate,South
+C0110,Customer 110,Consumer,North
+C0111,Customer 111,Small Business,West
+C0112,Customer 112,Corporate,West
+C0113,Customer 113,Corporate,West
+C0114,Customer 114,Small Business,North
+C0115,Customer 115,Small Business,North
+C0116,Customer 116,Consumer,West
+C0117,Customer 117,Small Business,East
+C0118,Customer 118,Consumer,South
+C0119,Customer 119,Consumer,South
+C0120,Customer 120,Small Business,West

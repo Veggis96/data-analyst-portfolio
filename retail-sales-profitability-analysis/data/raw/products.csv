@@ -1,0 +1,13 @@
+product_id,product_name,category,unit_price,base_margin_rate
+P001,Laptop Stand,Tech,42,0.48
+P002,Wireless Mouse,Technology,25,0.44
+P003,USB-C Hub,Technology,64,0.39
+P004,Office Chair,Furniture,210,0.28
+P005,Standing Desk,Furniture,420,0.24
+P006,Desk Lamp,Furniture,56,0.35
+P007,Notebook Pack,Office Supplies,12,0.52
+P008,Printer Paper,office supplies,18,0.31
+P009,Ink Cartridge,Office Supplies,48,0.36
+P010,Monitor,Technology,260,0.3
+P011,Filing Cabinet,Furniture,185,0.21
+P012,Whiteboard,office supplies,88,0.33
